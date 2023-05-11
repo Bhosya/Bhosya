@@ -1,4 +1,4 @@
-![CosplayClass Official Site - Shop Cosplay Costumes Latest   Greatest_](https://github.com/Bhosya/Bhosya/assets/89555084/9ab77fc2-b909-4a91-8b2b-a28bf4eef4cd)
+![AnyaSmile](https://github.com/Bhosya/Bhosya/assets/89555084/d3764397-52a3-4396-8b7a-cc7f01c771f1)
 
 - 👋 Hi-_-, Im Bhosya
 - I just chillin in programming
