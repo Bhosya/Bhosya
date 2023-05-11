@@ -2,7 +2,7 @@
 
 ![Anya](https://github.com/Bhosya/Bhosya/assets/89555084/d74ed586-180a-4847-b018-be640103fd20)
 
-- 👋 Hi-_-, Im Bhosya
+- 👋 Hi -_-, Im Bhosya
 - I just chillin in programming
 
 
