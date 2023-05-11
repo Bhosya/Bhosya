@@ -1,4 +1,6 @@
-![AnyaSmile](https://github.com/Bhosya/Bhosya/assets/89555084/d3764397-52a3-4396-8b7a-cc7f01c771f1)
+😎 Yo Wassup
+
+![Anya](https://github.com/Bhosya/Bhosya/assets/89555084/d74ed586-180a-4847-b018-be640103fd20)
 
 - 👋 Hi-_-, Im Bhosya
 - I just chillin in programming
