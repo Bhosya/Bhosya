@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/4f90e75b-f4fb-4b70-808d-9b9ae38d2378" />
+<img width="3780" height="1890" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/fd239246-68de-4445-a525-0651fdcec5a0" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wahyu-prasetyo-wibowo-649343363/" target="_blank">
